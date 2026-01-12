@@ -30,6 +30,7 @@
     zsh
     ripgrep
     tmux
+    mergerfs
   ];
 
   programs.zsh.enable = true;
